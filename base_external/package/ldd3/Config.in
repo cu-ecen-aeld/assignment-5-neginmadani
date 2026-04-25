@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_LDD3
+	bool "ldd3"
+	help
+	  Includes the scull and misc-modules packages.
